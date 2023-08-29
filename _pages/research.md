@@ -10,7 +10,7 @@ nav_order: 2
 
 
 
-<h3>Preprints</h3>
+<h3>Publications and Preprints</h3>
 
 - <b> E. Bersson, </b> P. Hurtgen, and M. Paustian, "Bounded Rationality, Sticky Prices, and the Zero Lower Bound". Journal of Money, Banking, and Credit.  2023. [ [pdf](http://doi.org/10.1111/jmcb.13065) ]
 
