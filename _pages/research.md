@@ -29,11 +29,3 @@ nav_order: 2
 
 
 
-<!--- {% bibliography -f papers %} --->
-
-
-<!-- <h3> Presentations </h3>
-
-- "Optimal Comformal Prediction for Small Areas", contributed poster at ISBA 2022
-
-- "Supporting Mentored Undergraduate Research in Statistics", contributed talk at ECOTS 2022 with Joan Combs-Durso, Yue Jiang, and Edric Tam -->
