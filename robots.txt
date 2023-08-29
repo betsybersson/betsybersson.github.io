@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://betsybersson.github.io/betsybersson.github.io/sitemap.xml
+Sitemap: https://betsybersson.github.io/sitemap.xml
