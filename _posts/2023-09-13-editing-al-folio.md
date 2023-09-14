@@ -6,7 +6,7 @@ tags: website
 categories: misc-resources
 ---
 
-I recently had to re-create my website, and it was annoying enough to remember how I customized it that I thought it would be useful to write down the steps I took.
+I recently had to re-create my website, and it was difficult enough to remember how I customized it that I thought it would be useful to write down the steps I took.
 
 <ol>
  <li> Follow the (README instructions)[https://github.com/alshedivat/al-folio] to get set-up. @alshediva keeps it pretty up to date. I found it complicated the process to try to take advantage of outside how-to sources. </li>
