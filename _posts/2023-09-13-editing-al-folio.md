@@ -23,7 +23,7 @@ I recently had to re-create my website, and it was difficult enough to remember 
 
 4. For my CV formatting, replace the text in `_layouts/cv.html` with the following:
 
-```markdown
+```
 --- layout: default ---
 {{ page.title }} {% if page.cv_pdf %}{% endif %}
 {{ page.description }}
