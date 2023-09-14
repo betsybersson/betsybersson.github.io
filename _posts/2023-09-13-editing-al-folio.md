@@ -25,8 +25,8 @@ I recently had to re-create my website, and it was difficult enough to remember 
 
    ```
    --- layout: default ---
-   {{ page.title }} {% if page.cv_pdf %}{% endif %}
-   {{ page.description }}
+   { { page.title } } {% if page.cv_pdf %}{% endif %}
+   { { page.description } }
    ```
 
 5. Re-name and re-order all your pages by editing the header in their respective file in the `_pages` directory.
