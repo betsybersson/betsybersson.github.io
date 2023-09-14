@@ -18,7 +18,7 @@ categories: computing
 
 	- The [OIT DCC](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/dcc/#getting-a-dcc-account) website is a super helpful resource.
 
-	- You can check out an Rstudio server on the cluster. Information [here](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/OpenOnDemand/RStudio/). The DCC OnDemandlogin site is [dcc-ondemand-01.oit.duke.edu](dcc-ondemand-01.oit.duke.edu).
+	- You can check out an Rstudio server on the cluster. Information [here](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/OpenOnDemand/RStudio/). The DCC OnDemand login site is [dcc-ondemand-01.oit.duke.edu](dcc-ondemand-01.oit.duke.edu).
 
 	- If you aren't able to log on to any of these DCC resources, you might need to request access. Check [rtoolkits](https://rtoolkits.web.duke.edu/) to see if you have access. 
 
@@ -26,13 +26,13 @@ categories: computing
 
 Simple steps to use the cluster through your terminal and use slurm:
 
-1. To log-on, execute the following in the terminal
+1. To log-on, execute the following in the terminal,
 
 	``` 
 	ssh NETID@dcc-login.oit.duke.edu
 	```
 
-2. Navigate to your desired working directory. Details [here](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/dcc/files/#logging-into-the-dcc_1) on the differences between the various directories. I tend to use the following
+2. Navigate to your desired working directory. Details [here](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/dcc/files/#logging-into-the-dcc_1) on the differences between the various directories. I tend to use,
 
 	```
 	cd /hpc/group/LAB/NETID
@@ -54,19 +54,7 @@ Simple steps to use the cluster through your terminal and use slurm:
 
 	- Some useful emacs commands: <b> C-x C-s </b> to save changes, <b> C-x C-c </b> to exit emacs
 
-5. Submit a job to slurm by executing the following (see DCC website for helpful resources on setting up your .sh file)
-
-	```
-	sbatch NAME.sh
-	```
-
-check on the status of your jobs:
-
-	```
-	squeue -u NETID
-	```
-
-and to cancel jobs use `cancel JOB##`.
+5. Submit a job to slurm by executing `sbatch FILENAME.sh` (see DCC website for helpful resources on setting up your .sh file), check on the status of your jobs with `squeue -u NETID`, and to cancel jobs use `cancel JOB##`.
 
 
 
