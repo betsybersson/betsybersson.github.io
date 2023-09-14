@@ -11,10 +11,12 @@ I recently had to re-create my website, and it was difficult enough to remember 
 
 1. Follow the (README instructions)[https://github.com/alshedivat/al-folio] to get set-up. @alshediva keeps it pretty up to date. I found it complicated the process to try to take advantage of outside how-to sources. 
 2. Go through the `_config.yml` file and make what should be obvious personlization edits.
-	a. Change the following line:
-  	```c
-  	imagemagick: // enabled: false
-  	```
+
+   a. Change the following line:
+
+   ```
+   imagemagick: // enabled: false
+   ```
 3. Add your CV to a `assets/pdf/CV.pdf` and your picture to `assets/img/prof_pic.jpg`.
 4. For my CV formatting, replace the text in `_layouts/cv.html` with the following:
 ```markdown
