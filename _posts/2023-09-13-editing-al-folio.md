@@ -9,7 +9,7 @@ categories: misc-resources
 I recently had to re-create my website, and it was difficult enough to remember how I customized it that I thought it would be useful to write down the steps I took.
 
 
-1. Follow the [README instructions](https://github.com/alshedivat/al-folio) to get set-up. @alshediva keeps it pretty up to date. I found it complicated the process to try to take advantage of outside how-to sources. 
+1. Follow the [al-folio README instructions](https://github.com/alshedivat/al-folio) to get set-up. @alshediva keeps it pretty up to date. I found it complicated the process to try to take advantage of outside how-to sources for the initial set-up. 
 
 2. Go through the `_config.yml` file and make what should be obvious personlization edits.
 
