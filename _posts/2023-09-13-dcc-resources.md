@@ -54,7 +54,7 @@ Simple steps to use the cluster through your terminal and use slurm:
 
 	- Some useful emacs commands: <b> C-x C-s </b> to save changes, <b> C-x C-c </b> to exit emacs
 
-5. Submit a job to slurm by executing `sbatch FILENAME.sh` (see DCC website for helpful resources on setting up your .sh file), check on the status of your jobs with `squeue -u NETID`, and to cancel jobs use `cancel JOB##`.
+5. Submit a job to slurm by executing `sbatch FILENAME.sh` (see DCC website for helpful resources on setting up your .sh file), check on the status of your jobs with `squeue -u NETID`, and to cancel jobs use `scancel JOB##`.
 
 
 
