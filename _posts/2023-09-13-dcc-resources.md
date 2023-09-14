@@ -11,14 +11,15 @@ categories: computing
 - DSS Studio Server: [http://knight.stat.duke.edu:8787/](http://knight.stat.duke.edu:8787/)
 	
 	- Can switch between knight, rook, algebra2, and others. Someone please tell me the difference between these!
-
+	- You have to be on VPN to use the server.
+	
 - OIT [virtual machine](https://vcm.duke.edu/): helpful if the dss Studio server is crashing, or for using other languages.
 
 - Duke Computing Cluster:
 
 	- The [OIT DCC](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/dcc/#getting-a-dcc-account) website is a super helpful resource.
 
-	- You can check out an Rstudio server on the cluster. Information [here](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/OpenOnDemand/RStudio/). The DCC OnDemand login site is [dcc-ondemand-01.oit.duke.edu](dcc-ondemand-01.oit.duke.edu).
+	- You can check out an Rstudio server on the cluster. Information [here](https://oit-rc.pages.oit.duke.edu/rcsupportdocs/OpenOnDemand/RStudio/). The DCC OnDemand login site is [dcc-ondemand-01.oit.duke.edu](https://dcc-ondemand-01.oit.duke.edu).
 
 	- If you aren't able to log on to any of these DCC resources, you might need to request access. Check [rtoolkits](https://rtoolkits.web.duke.edu/) to see if you have access. 
 
