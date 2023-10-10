@@ -40,8 +40,8 @@ Simple steps to use the cluster through your terminal and use slurm:
 3. Add/remove files with `git` or by using `sftp`:
 
 	- Replace `ssh` with `sftp` upon login. Note that tab-complete often doesn't work well when in an `sftp` environment. 
-	- To upload files <b> from your computer to the cluster</b>, execute `get FILENAME`.
-	- To download files <b> from the cluster to your computer</b>, execute `put FILENAME`.
+	- To upload files <b> from your computer to the cluster</b>, execute `put FILENAME`.
+	- To download files <b> from the cluster to your computer</b>, execute `get FILENAME`.
 	- Some useful options: `-r` for working with directories, `-C` for working with large files
 
 4. Life is easier if you can edit files with emacs (or similar) in the terminal.  To use emacs, open a file by executing `emacs FILENAME`. 
