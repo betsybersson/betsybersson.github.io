@@ -18,7 +18,7 @@ nav_order: 2
 
 - <b> E. Bersson </b> and P.D. Hoff, "Bayesian Covariance Estimation for Multi-group Matrix-variate Data". 2023. [ [pdf](https://arxiv.org/pdf/2302.09211.pdf) - [code](https://github.com/betsybersson/SWAG) ]
 
-- <b> E. Bersson </b> and P.D. Hoff,  "Optimal Conformal Prediction for Small Areas". 2022. [ [pdf](https://arxiv.org/pdf/2204.08122.pdf) - [code](https://github.com/betsybersson/fab_sap) ]
+- <b> E. Bersson </b> and P.D. Hoff,  "Optimal Conformal Prediction for Small Areas". 2022. <b> 2023 GSS/SRMS/SSS Student Paper Competition Winner. </b> [ [pdf](https://arxiv.org/pdf/2204.08122.pdf) - [code](https://github.com/betsybersson/fab_sap) ]
 
 
 
@@ -26,6 +26,10 @@ nav_order: 2
 
 - <b> E. Bersson, </b> M. Lee, R. Lu, Z. Chen, and S. Zhao, "Comparison of frequentist and Bayesian penalization methods for environmental mixture analyses". In preparation.
 
+
+<h3>Software</h3>
+
+- [fabPrediction](https://github.com/betsybersson/fabPrediction): an R package for constructing freqeuntist prediction regions using indirect information 
 
 
 
