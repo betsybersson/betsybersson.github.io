@@ -29,7 +29,7 @@ nav_order: 2
 
 <h3>Software</h3>
 
-- [fabPrediction](https://github.com/betsybersson/fabPrediction): an R package for constructing freqeuntist prediction regions using indirect information 
+- [fabPrediction](https://rpubs.com/betsybersson/1158666): an R package for constructing freqeuntist prediction regions using indirect information 
 
 
 

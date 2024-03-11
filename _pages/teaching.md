@@ -9,6 +9,7 @@ nav_order: 3
 
 <h3> Teaching Assistant </h3>
 
+- STA 199: Introduction to Data Science (Head TA, Spring 2024; Duke)
 - STA 470S: Introduction to Statistical Consulting (Spring 2023; Duke)
 - STA 440: Case Studies in the Practice of Statistics (Fall 2021; Duke)
 - STA 210: Regression Analysis (Fall 2020, Spring 2021; Duke)
