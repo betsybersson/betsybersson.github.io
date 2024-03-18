@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duke Computing Resources
+title: Duke computing resources
 date: 2023-09-13
 tags: dcc for-dukies
 categories: computing
