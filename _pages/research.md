@@ -12,7 +12,7 @@ nav_order: 2
 
 <h3>Publications and Preprints</h3>
 
-- <b> E. Bersson </b> and P.D. Hoff,  "Optimal Conformal Prediction for Small Areas". <it>Journal of Survey Statistics and Methodology</it>, 2024. <b> 2023 GSS/SRMS/SSS Student Paper Competition Winner. </b> [ [pdf](https://arxiv.org/pdf/2204.08122.pdf) - [code](https://github.com/betsybersson/fab_sap) - [html](https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smae010/7632601?utm_source=advanceaccess&utm_campaign=jssam&utm_medium=email) ]
+- <b> E. Bersson </b> and P.D. Hoff,  "Optimal Conformal Prediction for Small Areas". <it>Journal of Survey Statistics and Methodology</it>, 2024. <b> 2023 GSS/SRMS/SSS Student Paper Competition Winner. </b> [ [pdf](https://arxiv.org/pdf/2204.08122.pdf) - [code](https://github.com/betsybersson/fab_sap) - [JSSAM](https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smae010/7632601?utm_source=advanceaccess&utm_campaign=jssam&utm_medium=email) ]
 
 - <b> E. Bersson </b> and P.D. Hoff, "Frequentist Prediction Sets for Species Abundance using Indirect Information". 2023. [ [pdf](https://arxiv.org/pdf/2311.15860.pdf) - [code](https://github.com/betsybersson/FreqPredSets_Indirect) ]
 
@@ -31,7 +31,7 @@ nav_order: 2
 
 <h3>Software</h3>
 
-- [fabPrediction](https://rpubs.com/betsybersson/fabPrediction_Vignette): an R package for constructing freqeuntist prediction regions using indirect information 
+- fabPrediction: An R package for constructing freqeuntist prediction regions using indirect information. [ [cran](https://CRAN.R-project.org/package=fabPrediction) - [vignette](https://rpubs.com/betsybersson/fabPrediction_Vignette) ]
 
 
 
