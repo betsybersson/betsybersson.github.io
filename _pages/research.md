@@ -16,7 +16,7 @@ nav_order: 2
 
 - <b> E. Bersson </b> and P.D. Hoff, "Frequentist Prediction Sets for Species Abundance using Indirect Information". 2023. [ [pdf](https://arxiv.org/pdf/2311.15860.pdf) - [code](https://github.com/betsybersson/FreqPredSets_Indirect) ]
 
-- <b> E. Bersson, </b> P. Hurtgen, and M. Paustian, "Bounded Rationality, Sticky Prices, and the Zero Lower Bound". Journal of Money, Banking, and Credit.  2023. [ [html](http://doi.org/10.1111/jmcb.13065) ]
+- <b> E. Bersson, </b> P. Hurtgen, and M. Paustian, "Bounded Rationality, Sticky Prices, and the Zero Lower Bound". Journal of Money, Banking, and Credit.  2023. [ [JMBC](http://doi.org/10.1111/jmcb.13065) ]
 
 - <b> E. Bersson </b> and P.D. Hoff, "Bayesian Covariance Estimation for Multi-group Matrix-variate Data". 2023. [ [pdf](https://arxiv.org/pdf/2302.09211.pdf) - [code](https://github.com/betsybersson/SWAG) ]
 
