@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I received my PhD in May 2024 from the [Department of Statistical Science at Duke University](http://stat.duke.edu) under the supervision of [Peter Hoff](http://pdhoff.github.io). I will join [Tamara Broderick's](https://tamarabroderick.com/) group at MIT in Fall 2024.
+I received my PhD in May 2024 from the [Department of Statistical Science at Duke University](http://stat.duke.edu) under the supervision of [Peter Hoff](http://pdhoff.github.io). I will join [Tamara Broderick's](https://tamarabroderick.com/) group at MIT as a postdoctoral fellow in Fall 2024.
 My work is related to hierarachical modeling, covariance estimation, small area estimation, and conformal prediction.
 
 <!---Broadly, I develop methodology that improves inferential precision in analyses with data obtained from multiple groups. I am particularly interested in developing straightforward methods that are robust to mis-specification without sacrificing usefulness. --->
