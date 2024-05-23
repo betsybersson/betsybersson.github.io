@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <h3> Instructor </h3>
-- STA 100: Introduction to Data Science and Statistical Thinking ([Summer 2024; Duke](https://sta199-summer24.github.io/))
+- STA 199: Introduction to Data Science and Statistical Thinking ([Summer 2024; Duke](https://sta199-summer24.github.io/))
 
 
 <h3> Teaching Assistant </h3>
