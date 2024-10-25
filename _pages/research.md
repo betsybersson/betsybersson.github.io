@@ -12,6 +12,8 @@ nav_order: 2
 
 <h3>Publications and Preprints</h3>
 
+- <b> E. Bersson</b>, "Contributed Discussion to <em>Sparse Bayesian factor analysis when the number of factors is unknown</em>, by Fr\"uhwirth–Schnatter, S., Hosszejini, D., and Lopes, F. L.". Bayesian Analysis, 2024.
+
 - <b> E. Bersson </b> and P.D. Hoff, "Frequentist Prediction Sets for Species Abundance using Indirect Information".  <it>Journal of the Royal Statistical Society: Series A, with discussion</it>, 2024. [ [JRSSA](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae096/7756630) - [pdf](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Bersson_Hoff_2024.pdf) - [code](https://github.com/betsybersson/FreqPredSets_Indirect) ]
 
 
