@@ -27,3 +27,4 @@ My work is related to hierarchical modeling, covariance estimation, small area e
 
 
 Outside of statistics, I enjoy [reading](https://www.goodreads.com/user/show/86311097-bets-bersson), going on walks, particularly through [gardens](https://www.instagram.com/bs_fave_flowers/), and vegetable gardening. As Cicero [[said]](https://pages.pomona.edu/~cmc24747/sources/cic_web/cic_fam_9.htm), "If you have a garden and a library, everything will be complete" !
+

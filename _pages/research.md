@@ -12,6 +12,8 @@ nav_order: 2
 
 <h3>Publications and Preprints</h3>
 
+- <b> E. Bersson</b>, Kate Hoffman, Heather Stapleton, and David Dunson, "Covariance meta regression, with application to mixtures of chemical exposures". Submitted, 2025. [ pdf - [code](https://github.com/betsybersson/covarianceMetaRegression) ]
+
 - <b> E. Bersson</b>, "Contributed Discussion to '<em>Sparse Bayesian factor analysis when the number of factors is unknown</em>', by Fr&#252;hwirth–Schnatter, S., Hosszejini, D., and Lopes, F. L.". Bayesian Analysis, 2024. [ [BA](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full) ]
 
 - <b> E. Bersson </b> and P.D. Hoff, "Frequentist Prediction Sets for Species Abundance using Indirect Information".  <it>Journal of the Royal Statistical Society: Series A, with discussion</it>, 2024. [ [JRSSA](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae096/7756630) - [pdf](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Bersson_Hoff_2024.pdf) - [code](https://github.com/betsybersson/FreqPredSets_Indirect) ]
@@ -37,7 +39,7 @@ nav_order: 2
 
 <h3>Software</h3>
 
-- fabPrediction: An R package for constructing freqeuntist prediction regions using indirect information. [ [cran](https://CRAN.R-project.org/package=fabPrediction) - [vignette](https://rpubs.com/betsybersson/fabPrediction_Vignette) ]
+- fabPrediction: An R package for constructing frequentist prediction regions using indirect information. [ [cran](https://CRAN.R-project.org/package=fabPrediction) - [vignette](https://rpubs.com/betsybersson/fabPrediction_Vignette) ]
 
 
 
