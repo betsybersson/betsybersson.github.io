@@ -26,5 +26,14 @@ My work is related to hierarchical modeling, covariance estimation, small area e
 
 
 
-Outside of statistics, I enjoy [reading](https://www.goodreads.com/user/show/86311097-bets-bersson), going on walks, particularly through [gardens](https://www.instagram.com/bs_fave_flowers/), and vegetable gardening. As Cicero [[said]](https://pages.pomona.edu/~cmc24747/sources/cic_web/cic_fam_9.htm), "If you have a garden and a library, everything will be complete" !
+Outside of statistics, I enjoy [reading](https://www.goodreads.com/user/show/86311097-bets-bersson), going on walks, particularly through [gardens](https://www.instagram.com/bs_fave_flowers/), and <s>vegetable gardening</s> (no yard in Boston).
+
+ 
+<h3>News</h3>
+
+- September 2025: Check out an invited session I organized on citizen science data analysis at RSS 2025 in Edinburgh.
+
+- June 2025: Talk on Covariance Meta Regression at BNP in LA.
+
+- April 2025: Invited talk on Covariance Meta Regression at the Department of Statistics seminar at U Mass Amherst.
 
