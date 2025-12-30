@@ -31,9 +31,9 @@ Outside of statistics, I enjoy [reading](https://www.goodreads.com/user/show/863
  
 <h3>News</h3>
 
+- December 2025: Invited talk on Frequentist Prediction Sets for Species Abundance Using Indirect Information for the Slovenian Month of Science
+
+- November 2025: Invited talk on Covariance Meta Regression at University of Rhode Island's Department of Computer Science and Statistics seminar
+
 - September 2025: Check out an invited session I organized on citizen science data analysis at RSS 2025 in Edinburgh.
-
-- June 2025: Talk on Covariance Meta Regression at BNP in LA.
-
-- April 2025: Invited talk on Covariance Meta Regression at the Department of Statistics seminar at U Mass Amherst.
 
