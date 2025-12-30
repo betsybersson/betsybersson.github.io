@@ -12,7 +12,7 @@ nav_order: 2
 
 <h3>Publications and Preprints</h3>
 
-- <b> E. Bersson</b>, Kate Hoffman, Heather Stapleton, and David Dunson, "Covariance Meta Regression, With Application to Mixtures of Chemical Exposures". <it>R\&R at Annals of Applied Statistics</it>, 2025. [ [pdf](https://arxiv.org/abs/2504.08220) - [code](https://github.com/betsybersson/covarianceMetaRegression) ]
+- <b> E. Bersson</b>, Kate Hoffman, Heather Stapleton, and David Dunson, "Covariance Meta Regression, With Application to Mixtures of Chemical Exposures". <it>R&R at Annals of Applied Statistics</it>, 2025. [ [pdf](https://arxiv.org/abs/2504.08220) - [code](https://github.com/betsybersson/covarianceMetaRegression) ]
 
 - <b> E. Bersson</b>, "Contributed Discussion to '<em>Sparse Bayesian factor analysis when the number of factors is unknown</em>', by Fr&#252;hwirth–Schnatter, S., Hosszejini, D., and Lopes, F. L.". <it>Bayesian Analysis</it>, 20(1): 322:324, 2025. [ [BA](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full) ]
 
