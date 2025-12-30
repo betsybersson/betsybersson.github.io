@@ -24,6 +24,7 @@ nav_order: 3
 
 <h3> Mentorship Experience </h3>
 
+- Mentoring a PhD student's master's thesis evaluating default settings in VI software implementation. (Sept 2024 - present; MIT)
 - Mentored a group of 4 undergraduates in the pilot program of the intensive Thesis Proposal Writing Workshop. (May 2024; Duke)
 - Member of the [Graduate Consultative Committee](https://stat.duke.edu/about/gcc) for the department of statistical science. (2022 academic year)
 - Project manager for a [Data+](https://bigdata.duke.edu/data) project exploring the relationship between mental health and the justice system in Durham County, North Carolina; with by [Maria Tackett](https://maria-tackett.netlify.app/) and [Nicole Schramm-Sapyta](https://scholars.duke.edu/person/nicole.schrammsapyta). (Summer 2022; Duke)
