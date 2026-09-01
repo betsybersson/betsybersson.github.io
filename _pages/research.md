@@ -12,9 +12,9 @@ nav_order: 2
 
 <h3>Publications and Preprints</h3>
 
-- M. Anderson, <b>E. Bersson</b>, and T. Broderick, "`The Curious Case of the Default Settings: Evaluating Default Performance of Variational Inference Software", preprint, 2026. [pdf](https://arxiv.org/abs/2608.01403)
+- M. Anderson, <b>E. Bersson</b>, and T. Broderick, "The Curious Case of the Default Settings: Evaluating Default Performance of Variational Inference Software", preprint, 2026. [pdf](https://arxiv.org/abs/2608.01403)
 
-- <b> E. Bersson</b>, "`Invited Book Review of `Robust Small Area Estimation: Methods, Theory, Applications, and Open Problems',
+- <b> E. Bersson</b>, "`Invited Book Review of `<it>Robust Small Area Estimation: Methods, Theory, Applications, and Open Problems</it>',
 by Jiming Jiang and J. Sunil Rao", <it>to appear</it>, 2026.
 
 - <b> E. Bersson</b>, Kate Hoffman, Heather Stapleton, and David Dunson, "Feature aware covariance estimation[^1], With Application to Mixtures of Chemical Exposures". <it>minor revision</it>, 2025. [ [pdf](https://arxiv.org/abs/2504.08220) - [code](https://github.com/betsybersson/covarianceMetaRegression) ]
