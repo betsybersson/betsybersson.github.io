@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a postdoctoral fellow at the [Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/) at the University of Chicago working on property tax policy. 
+I am a postdoctoral fellow at the [Mansueto Institute for Urban Innovation](https://miurban.uchicago.edu/) at the University of Chicago and a postdoctoral affiliate at [Stanford RegLab](https://reglab.stanford.edu/), working on property tax policy. 
 In May 2024, I received my PhD from the [Department of Statistical Science at Duke University](http://stat.duke.edu) under the supervision of [Peter Hoff](http://pdhoff.github.io).
 My work is related to hierarchical modeling, covariance estimation, small area estimation, and conformal prediction.
 I have also spent time working with [Tamara Broderick](https://tamarabroderick.com/) at MIT.
