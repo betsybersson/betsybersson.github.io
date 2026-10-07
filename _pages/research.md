@@ -12,8 +12,7 @@ nav_order: 2
 
 <h3>Publications and Preprints</h3>
 
-- <b> E. Bersson</b>, Kate Hoffman, Heather Stapleton, and David Dunson, "Feature aware covariance estimation[^1], With applicat\
-ion to mixtures of chemical exposures", <em>Annals of Applied Statistics</em>, forthcoming. [ [pdf](https://arxiv.org\
+- <b> E. Bersson</b>, Kate Hoffman, Heather Stapleton, and David Dunson, "Feature aware covariance estimation[^1], With application to mixtures of chemical exposures", <em>Annals of Applied Statistics</em>, forthcoming. [ [pdf](https://arxiv.org\
 /abs/2504.08220) - [code](https://github.com/betsybersson/covarianceMetaRegression) ]
 
 - M. Anderson, <b>E. Bersson</b>, and T. Broderick, "The curious case of the default settings: Evaluating default performance of variational inference software", <em>preprint</em>, 2026. [ [pdf](https://arxiv.org/abs/2608.01403) ]
